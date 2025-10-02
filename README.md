@@ -7,7 +7,7 @@ https://chat-fullstack-steel.vercel.app/
 ```
 
 
-<h1 align="center" style="color: #805ad5; font-weight: bold;">Chatie</h1>
+<h1 align="center" style="font-weight: bold;">Chatie</h1>
 <p align="center">
 Topics: 
 <a href="#tech">Technolgies</a> |
